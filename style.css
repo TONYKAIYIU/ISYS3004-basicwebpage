@@ -6,7 +6,7 @@ body{
 }
 
 header {
-    background-color: lightgray;
+    background-color: rgb(188, 61, 252);
 }
 
 header h1{
@@ -33,7 +33,7 @@ nav a:hover{
 }
 
 #featured {
-    background-color: lightgray;
+    background-color: rgb(249, 90, 159);
     float:left;
     width: 200px;
 }
@@ -44,7 +44,7 @@ nav a:hover{
 }
 
 #extras {
-    background: lightgrey;
+    background: rgb(149, 26, 249);
     float: left;
     width: 200px;
 }
